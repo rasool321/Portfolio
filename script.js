@@ -146,7 +146,7 @@ document.addEventListener('DOMContentLoaded', function() {
             technologies: ["Python", "Flask", "JavaScript", "HTML",'CSS'],
             github: "https://github.com/rasool321/Blog",
             live: "" ,
-            image: "blog.png" 
+            image: "images/blog.png" 
         },
         {
             title: "TODO",
@@ -154,7 +154,7 @@ document.addEventListener('DOMContentLoaded', function() {
             technologies: ["React", "JS", "HTML", "CSS", "JS"],
             github: "https://github.com/rasool321/Todo-React",
             live: "https://todorea.netlify.app/" ,
-            image: "todo.png" 
+            image: "images/todo.png" 
         },
         {
             title: "Google Clone",
@@ -162,7 +162,7 @@ document.addEventListener('DOMContentLoaded', function() {
             technologies: ["HTML5", "CSS3", "JavaScript", "Responsive Design"],
             github: "https://github.com/rasool321/Google-Clone",
             live: "https://rasool321.github.io/Google-Clone/",
-            image: "google.png" 
+            image: "images/google.png" 
         },
         {
             title: "Insta-Clone",
@@ -170,7 +170,7 @@ document.addEventListener('DOMContentLoaded', function() {
             technologies: ["PHP", "MySql", "HTML", "JS",'CSS'],
             github: "https://github.com/rasool321/Insta-clone",
             live: "http://www.instaclone.infy.uk/" ,
-            image: "insta.png" 
+            image: "images/insta.png" 
         },
         {
             title: " Etch-a-Sketch",
@@ -178,7 +178,7 @@ document.addEventListener('DOMContentLoaded', function() {
             technologies: ["HTML", "CSS", "JS"],
             github: "https://github.com/rasool321/Etch-a-Sketch",
             live: "https://rasool321.github.io/Etch-a-Sketch/",
-            image: "etch.png" 
+            image: "images/etch.png" 
         }
     ];
 
