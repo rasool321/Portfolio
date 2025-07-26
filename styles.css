@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-
-=======
-   <style>
->>>>>>> 9668becfbb48498ae7334c871f0ff1a3327bba79
-        /* ==================== */
+/* ==================== */
         /* 1. GLOBAL VARIABLES  */
         /* ==================== */
         :root {
@@ -1511,8 +1506,5 @@
 
         .slide-up {
           animation: slideUp 0.8s ease forwards;
-<<<<<<< HEAD
-        }
-=======
-        }
->>>>>>> 9668becfbb48498ae7334c871f0ff1a3327bba79
+ }
+
