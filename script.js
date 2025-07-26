@@ -179,6 +179,14 @@ document.addEventListener('DOMContentLoaded', function() {
             github: "https://github.com/rasool321/Etch-a-Sketch",
             live: "https://rasool321.github.io/Etch-a-Sketch/",
             image: "images/etch.png" 
+        },
+        {
+            title: "Snake Game",
+            description: "A fun and interactive Snake Game GUI application using Tinker",
+            technologies: ["Python","Tinker"],
+            github: "https://github.com/rasool321/Snake_Game",
+            live: "",
+            image: "images/snake.png" 
         }
     ];
 
